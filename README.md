@@ -1,7 +1,7 @@
 # Dotfiles
 
-* IMAGE *
-* IMAGE *
+![Screenshot](https://github.com/vNUNES17/Dotfiles/blob/images/images/screen1.png)
+![Screenshot](https://github.com/vNUNES17/Dotfiles/blob/images/images/screen2.png)
 
 
 **Warning**: Don’t blindly use my settings unless you know what that entails.
